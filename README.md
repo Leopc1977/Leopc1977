@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Paris
-* 🖥️  See my portfolio at [leophancao.netlify.app](http://https://leophancao.netlify.app/)
+* 🖥️  See my portfolio at [leophancao.netlify.app](https://leophancao.netlify.app/)
 * ✉️  You can contact me at [leophancao@gmail.com](mailto:leophancao@gmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer
