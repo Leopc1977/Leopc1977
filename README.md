@@ -9,7 +9,7 @@ Software Engineer
 * ✉️  You can contact me at [leophancao@gmail.com](mailto:leophancao@gmail.com)
 * 🚀  I'm currently working on [Eklesia](https://github.com/Leopc1977/Eklesia)
 * 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer
+* 🤝  I'm open to collaborating on exciting projects as a good developer
 
 ### Skills
 
