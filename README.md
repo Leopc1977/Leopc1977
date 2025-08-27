@@ -45,16 +45,16 @@ Software Engineer
 
 <div align="center">
   <a href="https://github.com/leopc1977/eklesia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=eklesia&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=eklesia&theme=dracula&hide_border=true&=1" />
   </a>
     <a href="https://github.com/leopc1977/llm-uno-arena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=llm-uno-arena&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=llm-uno-arena&theme=dracula&hide_border=true&=1" />
   </a>
   </a>
     <a href="https://github.com/leopc1977/notSpotify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=notSpotify&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=notSpotify&theme=dracula&hide_border=true&=1" />
   </a>
     <a href="https://github.com/leopc1977/NotRAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=NotRAG&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=NotRAG&theme=dracula&hide_border=true&=1" />
   </a>
 </div>
