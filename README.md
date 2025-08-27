@@ -54,7 +54,7 @@ Software Engineer
     <a href="https://github.com/leopc1977/notSpotify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=notSpotify&theme=dracula&hide_border=true" />
   </a>
-    <a href="https://github.com/leopc1977/YoRHaScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=YoRHaScript&theme=dracula&hide_border=true" />
+    <a href="https://github.com/leopc1977/NotRAG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leopc1977&repo=NotRAG&theme=dracula&hide_border=true" />
   </a>
 </div>
