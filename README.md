@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Paris
-* 🖥️  See my portfolio at [https://leopc1977.vercel.app/](https://leopc1977.vercel.app/)
+* 🖥️  See my portfolio at [leopc1977.vercel.app](https://leopc1977.vercel.app/)
 * ✉️  You can contact me at [leophancao@gmail.com](mailto:leophancao@gmail.com)
 * 🚀  I'm currently working on [Eklesia](https://github.com/Leopc1977/Eklesia)
 * 🧠  I'm learning multi-agent orchestration with LLMs
