@@ -1,5 +1,6 @@
 Hi 👋 My name is Léo Phan--Cao
 ==============================
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Leopc1977.Leopc1977" alt="visitor badge"/>
 
 Software Engineer
 -----------------
