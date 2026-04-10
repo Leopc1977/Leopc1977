@@ -35,10 +35,11 @@ Software Engineer
 
 ### Recent Activity
 
-1. Open PR [#5](https://github.com/google-deepmind/game_arena/pull/5) in [google-deepmind/game_arena](https://github.com/google-deepmind/game_arena) (Add support for OpenAI-compatible APIs via OpenAIGenericAPIModel)
-2. Commented Issue [#1](https://github.com/google-deepmind/game_arena/issues/1) in [google-deepmind/game_arena](https://github.com/google-deepmind/game_arena) (How to use openrouter api to run this demo?)
-3. Merged PR [#1109](https://github.com/Bittu5134/ORV-Reader/pull/1109) in [Bittu5134/ORV-Reader](https://github.com/Bittu5134/ORV-Reader) (Improve reader progress saving and scroll position management)
-4. Merged PR [#1](https://github.com/bsagevedant/sagestickynotes/pull/1) in [bsagevedant/sagestickynotes](https://github.com/bsagevedant/sagestickynotes) (feat: save notes with local storage + fix bringToFront)
+1. Merged PR [#826](https://github.com/elysiajs/documentation/pull/826) in [elysiajs/documentation](https://github.com/elysiajs/documentation) (docs(prisma): update integration for Prisma v7)
+2. Open PR [#5](https://github.com/google-deepmind/game_arena/pull/5) in [google-deepmind/game_arena](https://github.com/google-deepmind/game_arena) (Add support for OpenAI-compatible APIs via OpenAIGenericAPIModel)
+3. Commented Issue [#1](https://github.com/google-deepmind/game_arena/issues/1) in [google-deepmind/game_arena](https://github.com/google-deepmind/game_arena) (How to use openrouter api to run this demo?)
+4. Merged PR [#1109](https://github.com/Bittu5134/ORV-Reader/pull/1109) in [Bittu5134/ORV-Reader](https://github.com/Bittu5134/ORV-Reader) (Improve reader progress saving and scroll position management)
+5. Merged PR [#1](https://github.com/bsagevedant/sagestickynotes/pull/1) in [bsagevedant/sagestickynotes](https://github.com/bsagevedant/sagestickynotes) (feat: save notes with local storage + fix bringToFront)
 
 ---
 
